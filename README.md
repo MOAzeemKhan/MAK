@@ -45,6 +45,8 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
+<h2 align="left">🏆 Achievements</h2>
+- Survived an entire week of coding without any syntax errors - a new personal record!
 
 <h2 align="left"> 🔥 Stats</h2>
 <img align="center" src="https://streak-stats.demolab.com?user=MoAzeemKhan&theme=tokyonight&hide_current_streak=true" alt="MOAzeemKhan"/>          
