@@ -1,4 +1,5 @@
-<h1 align="center">Heyy there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Azeem</h1>
+<h1 align="center">Heyy there <img src="https://github.com/MOAzeemKhan/MAK/assets/102454617/96f6c821-4cf3-40ef-9f21-ae6194c92414" width="40"> I'm Azeem</h1>
+
 
 <h2 align="left"> 💫 About Me: </h2>
 
